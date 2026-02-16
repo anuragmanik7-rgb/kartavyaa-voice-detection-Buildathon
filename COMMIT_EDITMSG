@@ -1,0 +1,10 @@
+Update supported languages and documentation for voice detection API
+
+Update supported languages in DOCUMENTATION.md and server/routes.ts from Bengali, Marathi, Chhattisgarhi to Tamil, Malayalam, Telugu, and update descriptions to reflect this change.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 9abd74f6-f392-4519-b155-8a0e70e2606e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 8985bb09-b8fb-41d1-ae2b-b116d60200ee
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/ea880f30-f8fd-482f-a90c-e1666a5ef0d9/9abd74f6-f392-4519-b155-8a0e70e2606e/XxQuXqC
+Replit-Helium-Checkpoint-Created: true
